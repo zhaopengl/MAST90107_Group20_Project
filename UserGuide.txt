@@ -1,0 +1,5 @@
+MAST90107_Group20_Project2 User Guide
+
+1. When trying to run the codes in pre-processing folder and models folder, remember to copy the files used in the code from datasets folder to the target folder.
+
+2. The 'Trajan Data.xlsx' file involves steps to finish pre-processing. Each page is a step.
